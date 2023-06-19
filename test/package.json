@@ -26,7 +26,7 @@
     "@types/vscode": "1.45.1",
     "babylonjs": "4.0.3",
     "big.js": "5.2.2",
-    "d3": "5.15.0",
+    "d3": "7.8.5",
     "express": "4.17.1",
     "filament": "1.7.0",
     "firebase-admin": "^8.12.1",
